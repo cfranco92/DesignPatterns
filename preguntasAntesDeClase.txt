@@ -1,0 +1,73 @@
+Preguntas antes de la clase
+--------------------------------------------------------------------------------
+1)¿Cúal es el propósito de este curso? ¿Qué vamos a lograr con esto?
+  --> El objetivo del curso es principalmente tener una visión general
+      con la intención de formarnos con la idea de que construir un software
+      de calidad empresarial, no es complidado.
+      Se deben usar prácticas de buena programación, las cuales tendremos como
+      referencia para poder construir software más sencillo y reetilizable.
+      Dando la posibilidad de que este vivo y que pueda ser reutilizable a
+      medida del tiempo.
+
+
+2)¿Qué tipo de patrones de diseño vamos a ejecutar?
+  --> Se verán patrones de arquitectura o de diseño, permitiendo ver el
+      problema más desde arriba, utilizando las ventajas de descomponer
+      un problema lo que a futuro formará un sistema con todos los
+      componentes que lo conforman.
+
+
+3)¿Qué tipo de lenguaje vamos a utilizar? ¿Qué necesitamos instalar?
+  --> Se utilizará Python(3.4) y Javascript. No quiere decir que no se pueda
+      usar otros.
+  --> Debemos tener un entorno visual que nos permita programar como vim, emacs,
+      atom. Para usar Python estaremos usando GUINI.
+  --> Se usará ryno, un precompilador de javscript por lado del servidor, lo que
+      nos ayudará a correr javscript sin necesidad de un browser.
+
+
+4)¿Por qué son importantes los patrones de diseño en la programación?
+  --> Nos permite ahorrar mucho más tiempo a la hora de ejecutar desarrollo.
+      Nos ayudan a estructurar y descomponer el problema a resolver, por ejemplo
+      el uso de frameworks a la hora de desarrollar. Tienen incluidos algunos de
+      los patrones de diseño, permitiendo despreocuparnos de la estructura arqui-
+      tectónica, permitiendo así preocuparnos por el desarrollo directamente.
+  --> Esto nos permitirá un mejor y más fácil mantenimiento.
+
+
+-----------------(MINUTO 13)----------------------------
+5)¿Qué tan difícil es implementar los patrones de arquitectura en nuestros proyectos?
+  -->
+
+
+6)¿Qué patrones de diseño son los más usados en el desarrollo web y cómo los
+   califico de acuerdo a mis necesidades?
+
+7)¿Qué tan importante pueden ser los patrones de diseño en los equipos de
+   trabajo dentro de una empresa "X"?
+
+8)Al implementar un patrón de diseño: ¿Debe manejarlo todo el equipo o sólo el
+  programador?
+
+9)¿Qué patrones hay para metodologias ágiles y qué tan recomendable es esta práctica?
+
+10)¿Qué patrones puedo usar para el flujo de información entre dos tecnologías
+    diferentes, específicamente entre Java y Node.js?
+
+11)¿Qué tan buenos son los patrones de frameworks complejos como Django, y cuál
+    framework recomendarías?
+
+12)¿Cómo comunicamos al resto del equipo qué parte de nuestro código está
+    haciendo uso de patrones?
+
+13)En este curso: ¿veremos algún patron de diseño orientado a eventos?
+
+14)¿Qué tipo de patrones de diseño me recomiendas si inicio un proyecto básico?
+
+15)¿Qué quiere decir que ya no hay más patrones de diseño por descubrir?
+   ¿Qué califica algo como un patrón de diseño?
+
+16)¿Existe un límite de patrones de diseño a usar por proyecto?
+
+17)¿Qué patrón recomiendas para iniciar un proyecto que involucra backend,
+   frontend y app móvil; en donde la data viajará en tiempo real?
