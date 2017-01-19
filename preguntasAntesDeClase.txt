@@ -35,20 +35,45 @@ Preguntas antes de la clase
   --> Esto nos permitirá un mejor y más fácil mantenimiento.
 
 
------------------(MINUTO 13)----------------------------
 5)¿Qué tan difícil es implementar los patrones de arquitectura en nuestros proyectos?
-  -->
+  --> Es importante el grupo de trabajo con experiencia en la construcción del
+      software.
+
+      Es muy importante la fase del diseño, donde podemos descomponer el problema.
+      Podemos realizar entregas escalables.
 
 
 6)¿Qué patrones de diseño son los más usados en el desarrollo web y cómo los
    califico de acuerdo a mis necesidades?
+  --> Patrón Modelo Vista Controlador, veremos la interacción del cliente con la
+      capa del negocio que normalmente se define en el servidor.
+
+  --> Patrones de aplicaciones orientadas a eventos, usados en sistemas distribuidos
+      donde lo más importante es de que manera varias aplicaciuones se van a comunicar
+      entre ellas.
+
+  --> Patrones de creación.
+
+  --> Patrón strateggy.
+
+  Cada uno de estos patrones define como se va a desarrollar el proyecto.
+
 
 7)¿Qué tan importante pueden ser los patrones de diseño en los equipos de
    trabajo dentro de una empresa "X"?
+   --> El proposito de los patrones es generar un lenguaje de comunicación entre
+       compañeros de trabajo, así se esté trabajando en otros lenguajes de
+       programación.
+  --> Facilitan la comunicación en el equipo.
+
 
 8)Al implementar un patrón de diseño: ¿Debe manejarlo todo el equipo o sólo el
   programador?
-
+  --> Para facilitar la comunicación en el equipo de trabajo es muy recomendable
+      que todos lo manejen así sea muy abstracto.
+-----------------
+MINUTO 27
+-----------------
 9)¿Qué patrones hay para metodologias ágiles y qué tan recomendable es esta práctica?
 
 10)¿Qué patrones puedo usar para el flujo de información entre dos tecnologías
